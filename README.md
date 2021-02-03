@@ -3,7 +3,7 @@
 
 
 //* 
-NOTE:: I still don't know how to use GITHUB. Right now I have code setup like this. And I call them from my brun.bat and main.cpp || defines.h.
+NOTE:: I still don't know how to use GITHUB. Right now I have code setup like this. And I call them from my brun.bat, main.cpp and defines.h.
 NOTE:: I also bought a new computer. So dependencies need to be updated from x32 to x64
 
 // Dependencies
