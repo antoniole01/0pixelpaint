@@ -3,10 +3,10 @@
 #include <sdl.h>
 #include <sdl_ttf.h>
 
-#include "c:\z\_MI\Window.h"
-#include "c:\z\_MI\defines.h"
-#include "c:\z\_MI\colors.h"
-#include "c:\z\_MI\drawshapes.h"
+#include "c:\z\cpp\sdl\_MI\Window.h"
+#include "c:\z\cpp\sdl\_MI\defines.h"
+#include "c:\z\cpp\sdl\_MI\colors.h"
+#include "c:\z\cpp\sdl\_MI\drawshapes.h"
 
 #undef main
 

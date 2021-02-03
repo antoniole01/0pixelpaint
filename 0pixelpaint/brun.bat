@@ -23,7 +23,7 @@ rem begin compilation
 rem RC EXAMPLE
 rem rc ../main.rc
 
-cl %CommonCompilerFlags% ../main.cpp c:/z/_MI/Window.cpp -Fmmain.map /link %CommonLinkerFlags%
+cl %CommonCompilerFlags% ../main.cpp c:/z/cpp/sdl/_MI/Window.cpp -Fmmain.map /link %CommonLinkerFlags%
 
 rem RUN EXE
 
