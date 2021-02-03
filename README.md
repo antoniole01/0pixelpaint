@@ -11,11 +11,10 @@ NOTE:: I also bought a new computer. So dependencies need to be updated from x32
 // Dependencies
 c:\z\bin
 
-// subfiles     // NOTE: Just code i use a lot. And didn't want to retype everytime. //xx BAD IDEA THOUGH xx//
-c:\z\cpp\sdl\_MI
-
 // my main file
-c:\z\cpp\sdl\0_pixelpaint\main.cpp
-c:\z\cpp\sdl\0_pixelpaint\brun.bat
-c:\z\cpp\sdl\0_pixelpaint\build\
+c:\z\cpp\sdl\0_pixelpaint\antoniole01_0pixelpaint\_MI\
+c:\z\cpp\sdl\0_pixelpaint\antoniole01_0pixelpaint\0pixelpaint\main.cpp
+c:\z\cpp\sdl\0_pixelpaint\antoniole01_0pixelpaint\0pixelpaint\brun.bat
+
+c:\z\cpp\sdl\0_pixelpaint\antoniole01_0pixelpaint\0pixelpaint\build\main.exe
 
