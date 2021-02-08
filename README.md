@@ -8,13 +8,18 @@ NOTE:: I also bought a new computer. So dependencies need to be updated from x32
 
 
 // NOTE:: How I have my program setup
-// Dependencies
+// NOTE:: How I have my program setup
+// NOTE:: How I have my program setup
+
+// DEPENDENCIES FILES
 c:\z\bin
 
-// my main file
-c:\z\cpp\sdl\0_pixelpaint\antoniole01_0pixelpaint\_MI\
-c:\z\cpp\sdl\0_pixelpaint\antoniole01_0pixelpaint\0pixelpaint\main.cpp
-c:\z\cpp\sdl\0_pixelpaint\antoniole01_0pixelpaint\0pixelpaint\brun.bat
+// SUB FILES -- code I use a lot for all my projects //NOTE: this is really bad, never do this
+c:\z\cpp\sdl\0_pixelpaint\_MI\
 
-c:\z\cpp\sdl\0_pixelpaint\antoniole01_0pixelpaint\0pixelpaint\build\main.exe
+// MAIN FILES
+c:\z\cpp\sdl\0_pixelpaint\main.cpp
+c:\z\cpp\sdl\0_pixelpaint\brun.bat
 
+// BUILD FILES
+c:\z\cpp\sdl\0_pixelpaint\build\

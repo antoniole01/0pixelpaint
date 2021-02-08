@@ -1,0 +1,6 @@
+
+*.exe
+build/main.map
+build/main.obj
+build/main.pdb
+build/Window.obj
